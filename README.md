@@ -28,7 +28,7 @@ Create and open the first VM: <br/>
 
 <br />
 <br />
-I set up two Nics. One for the outside internet and the other for the internal network  :  <br/>
+I set up two NICs. One for the outside internet and the other for the internal network  :  <br/>
 <img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/ed98887e-5a5e-4fb4-a845-a285c92e6540" />
 
 
