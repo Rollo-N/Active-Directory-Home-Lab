@@ -1,3 +1,6 @@
+# User creation script adapted from joshmadakor1
+# User creation script adapted from joshmadakor1
+
 $PASSWORD_FOR_USERS   = "Password1"
 $NUMBER_OF_ACCOUNTS_TO_CREATE = 10000
 # ------------------------------------------------------ #
